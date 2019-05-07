@@ -16,7 +16,7 @@
   --letterSpacing: 0.5rem;
 }
 body {
-  font-family: "Catamaran", sans-serif;
+  font-family: "Cinzel Decorative", "Catamaran", sans-serif;
   background: var(--mainWhite);
   color: var(--mainDark);
   line-height: 1.5;
